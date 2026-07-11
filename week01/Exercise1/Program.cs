@@ -1,5 +1,6 @@
 using System;
 
+
 namespace Exercise1
 {
     class Program
