@@ -39,4 +39,8 @@ class Program
             {
                 Console.WriteLine($"- {comment.Display()}");
             }
+
+            Console.WriteLine();
+        }
+    }
 }
